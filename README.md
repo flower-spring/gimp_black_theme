@@ -1,7 +1,6 @@
 # gimp_black_theme 
 A black theme for gimp 2.10.34 based on original gimp theme called "Dark"
-![gimp-2 10_D1XsjrR4av_v3](https://github.com/flower-spring/gimp_black_theme/assets/71689178/b7db466b-33a0-475e-b067-521dfff968bd)
-
+![gimp-2 10_D1XsjrR4av_v3](https://github.com/flower-spring/gimp_black_theme/assets/71689178/7abfed25-714d-42f2-933a-777907fb8897)
 
 # Installation on windows 💽
 Just paste folder Dark_gimp_theme_modified_flower_github inside c:\Program Files\GIMP 2\share\gimp\2.0\themes\  
