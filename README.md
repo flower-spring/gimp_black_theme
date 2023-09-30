@@ -10,4 +10,14 @@ then start or restart gimp and go in Edit>Preferences>Interface>Theme and this n
   
   
 # gif animation theme "Dark↔️Black"
-<img src="https://github.com/flower-spring/gimp_black_theme/assets/71689178/48b3d65e-6ae4-4464-8046-6e52758382d8" width="60%"/>
+<img src="https://github.com/flower-spring/gimp_black_theme/assets/71689178/91dbb3c2-8454-4b06-991b-e35331d1d64b" width="60%"/>
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+
+
